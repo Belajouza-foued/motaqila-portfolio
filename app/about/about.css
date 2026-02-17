@@ -1,0 +1,79 @@
+
+.bg-white {
+  border-radius: 5%;
+}
+.mon-image-profile {
+  
+
+   }
+   .object-contain {
+  
+   }
+   .container-touch {
+  
+   }
+
+.user-img {
+  position: absolute;
+  left: 25px;
+  top: 0px;
+  width: 350px;
+  height: 400px;
+  z-index: 0;
+  border-radius: 10px;
+ }
+ .mon-image {
+    display: flex;
+    align-items: center;
+justify-content: center;
+ }
+ @media (max-width: 768px) {
+  .mon-image {
+    width: 80px;
+    height: 100px;
+        }
+  
+ 
+ }
+
+
+.line {
+  width: 1px;
+  height: 38px;
+  background-color: rgba(var(--n5), 1);
+}
+
+.banner-counter {
+  width: 636px;
+}
+
+.service-card {
+  background-color: rgba(var(--n2), 1);
+  border: 1px solid rgba(143, 143, 143, 0.25);
+  transition: all 0.3s ease-in-out;
+}
+.service-card:hover {
+  background-color: rgba(var(--n1), 1);
+  border: 1px solid rgba(var(--p1), 1);
+  box-shadow: 0px 12px 40px 0px rgba(0, 0, 0, 0.16);
+}
+.display-one {
+  font-size: 80px;
+  line-height: 120%;
+}
+.border-b {
+  text-align: center;
+  
+}
+/*video*/ 
+.hover-video-card {
+  width: 100%;
+}
+
+.media-wrapper {
+  width: 100%;
+  height: auto;
+}
+.hover-video-card{
+padding-top: 15px;
+}

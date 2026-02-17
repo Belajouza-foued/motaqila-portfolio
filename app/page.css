@@ -1,0 +1,74 @@
+/* SECTION GLOBALE */
+.section-projects {
+  text-align: center;
+  margin: 70px auto;
+  padding: 60px;
+  max-width: 100%;
+  border-bottom: 1px solid #d1d1d1;
+}
+
+/* TITRE */
+.title-projects {
+ 
+}
+
+/* PARAGRAPHE */
+
+
+/* BOUTON */
+.btn-hire {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  background: rgb(var(--p1));
+  color: white;
+  padding: 12px 24px;
+  border-radius: 50px;
+  font-weight: 500;
+  transition: 0.3s;
+}
+
+.btn-hire:hover {
+  background: #2563eb; /* bleu */
+}
+
+/* ============================
+   MEDIA QUERY : TABLET + DESKTOP
+   ============================ */
+   .link-portfolio {
+  padding: 4px 12px;
+  font-size: 14px;
+  background-color: #e5e7eb; /* gray-200 */
+  color: #374151; /* gray-700 */
+  border-radius: 9999px;
+  display: inline-block;
+}
+@media (max-width: 768px) {
+  .project-card {
+    
+  }
+.paragraph-projects {
+ 
+}
+.link-portfolio{
+  padding: 2px 8px !important;
+    font-size: 10px !important;
+    transform: translateX(50px);
+ 
+  }
+  .link-title {
+    transform: translateX(60px);
+    font-size: 12px;
+  }
+  .web-app {
+    margin: 0 auto;   
+      }
+
+ 
+
+  .btn-hire {
+   
+    font-size: 11px;
+  }
+}
+/*card*/
