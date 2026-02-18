@@ -484,7 +484,7 @@ md:ml-0">
   <div className="flex flex-wrap justify-center md:justify-between gap-6 ">
   <div className="flex items-center gap-3">
                <h2 className="text-[11px] md:text-sm font-bold text-gray-600 pt-1">
-          github.com/foued-belajouza
+          github.com/foued-xxxxx
         </h2>
         <div className="bg-gray-100 p-2 rounded-full hover:bg-blue-400">
        <Link href="https://github.com/Belajouza-foued" className=""> <FaGithub className="text-blue-600 hover:text-white transition icon-git" size={20}/></Link>
