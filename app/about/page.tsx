@@ -91,7 +91,7 @@ export default function About() {
           I'm a web developer specializing in building scalable applications.
           Check my{" "}
           <Link href="/blog" className="text-blue-600 hover:underline">blog</Link>,{" "}
-          <Link href="/portfolio" className="text-blue-600 hover:underline">portfolio</Link> and{" "}
+          <Link href="/" className="text-blue-600 hover:underline">portfolio</Link> and{" "}
           <Link href="/resume" className="text-blue-600 hover:underline">resume</Link>.
         </p>
 
